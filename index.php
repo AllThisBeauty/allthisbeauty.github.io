@@ -7,6 +7,6 @@
 		<link type=text/css href='style.css' rel='stylesheet'>
 	</head>
 	<body>
-		<?php include_once("menu.html"); ?>
+		<?php include("menu.html"); ?>
 	</body>
 </html>

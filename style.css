@@ -28,7 +28,6 @@ a:link {
 	float: left;
 	padding-left: 20px;
 	padding-right: 20px;
-	outline: gray solid thick;
 }
 #resume_menu li{
 	list-style: none;
@@ -36,9 +35,4 @@ a:link {
 	float: right;
 	padding-left: 20px;
 	padding-right: 20px;
-	outline: gray solid thick;
-}
-.menu {
-	background-color: #3d3d29;
-	height: 100%;
 }

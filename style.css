@@ -15,11 +15,11 @@ a:active {
 }
 
 a:visited {
-	color: dimgray;
+	color: #666666;
 }
 
 a:link {
-	color: dimgray;
+	color: #666666y;
 }
 
 #me_menu li{
